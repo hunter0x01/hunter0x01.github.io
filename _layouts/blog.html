@@ -37,7 +37,7 @@ layout: default
             </div>
             <div class="card">
 
-                <div class="card-header">Categories </div>
+                <div class="card-header"> 분류 </div>
                 <div class="card-body text-dark">
                     {% for tag in site.categories %} {% capture tag_name %}{{ tag | first }}{% endcapture %}
                     <div id="#{{ tag_name | slugize }}"></div>
@@ -53,6 +53,7 @@ layout: default
             </div>
             <div class="card">
                 <!-- Begin MailChimp Signup Form -->
-                {%- include newsletter.html -%}
+               <!--  {%- include newsletter.html -%} -->
+               궁금하신 사항은 메일로 hunter0x01#gmail.com
             </div>
         </div>
