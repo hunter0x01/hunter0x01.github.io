@@ -6,7 +6,7 @@ author: 박기용
 categories:
   - wargame
   - nebula
-summary: 네트워크 엔지니어에 필요한 기술
+summary: 보안 중요하죠!! 공부공부 
 thumbnail: posts/network.jpg
 ---
 
