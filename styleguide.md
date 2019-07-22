@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Styleguide
+title: 스타일
 ---
 
 <h1 class="text-center"> Devlopr - Styleguide </h1>

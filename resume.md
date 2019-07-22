@@ -1,4 +1,4 @@
 ---
-title: Resume
-layout: home
+title: 이력서 
+layout: page
 ---

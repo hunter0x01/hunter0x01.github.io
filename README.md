@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Docs
+layout: home
+title: 메인
 ---
 
 # Kiyong Blog - Getting Started
