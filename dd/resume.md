@@ -1,4 +1,4 @@
 ---
-title: 이력서 
+title: resume 
 layout: page
 ---
